@@ -1,0 +1,8 @@
+{
+	"key.category.brbridger.controls": "BR Bridger",
+	"key.brbridger.toggle": "Toggle bridge assist",
+	"message.brbridger.enabled": "Bridge assist enabled",
+	"message.brbridger.disabled": "Bridge assist disabled",
+	"message.brbridger.select_block": "Hold a placeable block in your main hand first",
+	"message.brbridger.no_block": "Bridge assist stopped: no placeable block in main hand"
+}

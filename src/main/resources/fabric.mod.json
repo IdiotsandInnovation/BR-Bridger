@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "brbridger",
+	"version": "${version}",
+	"name": "BR Bridger",
+	"description": "Client-side bridge practice assist with a configurable toggle.",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.brbridger.client.BridgeAssistClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
